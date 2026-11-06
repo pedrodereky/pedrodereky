@@ -1,25 +1,18 @@
 <div align="center">
 
-<img src="./profile-card.svg" alt="SUBJECT A-34 — perfil" width="720"/>
+<img src="./hero.svg" alt="João Pedro Guimarães — Gerente de TI, Full Stack e IA aplicada" width="800"/>
+
+[![PORTFÓLIO](https://img.shields.io/badge/PORTFÓLIO-0b0b0c?style=flat-square&logo=googlechrome&logoColor=f4f4f4&labelColor=0b0b0c&color=a4a4a4)](https://joaopedroguimaraes.pages.dev)
+[![GITHUB](https://img.shields.io/badge/GITHUB-0b0b0c?style=flat-square&logo=github&logoColor=f4f4f4&labelColor=0b0b0c&color=a4a4a4)](https://github.com/pedrodereky)
 
 </div>
 
-```
-> ACCESSING FILE ........ OK
-> SUBJECT ............... PEDRO.DEREK
-> STATUS ................ ONLINE
-```
+## Sobre
 
-### `// SPECIAL SKILLS`
+Gerente de TI com trajetória em suporte, coordenação e gestão de equipe técnica. Em paralelo, desenvolvo de forma independente mais de 20 aplicações e protótipos full-stack, muitos com IA aplicada: classificação automática, RAG, análise em tempo real e automação de atendimento. Cursando Ciência da Computação (UDF, 4º semestre).
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-04070b?style=flat-square&logo=javascript&logoColor=7cc4ff&labelColor=04070b&color=3d8fe6)
-![React](https://img.shields.io/badge/REACT-04070b?style=flat-square&logo=react&logoColor=7cc4ff&labelColor=04070b&color=3d8fe6)
-![Git](https://img.shields.io/badge/GIT-04070b?style=flat-square&logo=git&logoColor=7cc4ff&labelColor=04070b&color=3d8fe6)
+<img src="./stack.svg" alt="Stack" width="800"/>
 
-### `// ACTIVE FILES`
+<img src="./projects.svg" alt="Projetos em destaque" width="800"/>
 
-| FILE | STATUS |
-| --- | --- |
-| [equilibrium-maker](https://github.com/pedrodereky/equilibrium-maker) | `ONLINE` |
-| [colheita-urbana](https://github.com/pedrodereky/colheita-urbana) | `ONLINE` |
-| [Estrutura-de-Dados-II](https://github.com/pedrodereky/Estrutura-de-Dados-II) | `ARCHIVED` |
+<img src="./metrics.svg" alt="Métricas, trajetória e certificações" width="800"/>
