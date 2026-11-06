@@ -2,8 +2,8 @@
 
 <img src="./hero.svg" alt="João Pedro Guimarães — Gerente de TI, Full Stack e IA aplicada" width="800"/>
 
-[![PORTFÓLIO](https://img.shields.io/badge/PORTFÓLIO-0b0b0c?style=flat-square&logo=googlechrome&logoColor=f4f4f4&labelColor=0b0b0c&color=a4a4a4)](https://joaopedroguimaraes.pages.dev)
-[![GITHUB](https://img.shields.io/badge/GITHUB-0b0b0c?style=flat-square&logo=github&logoColor=f4f4f4&labelColor=0b0b0c&color=a4a4a4)](https://github.com/pedrodereky)
+[![PORTFÓLIO](https://img.shields.io/badge/PORTFÓLIO-0b0b0c?style=flat-square&logo=googlechrome&logoColor=f4f4f4&labelColor=0b0b0c&color=1c1c1e)](https://joaopedroguimaraes.pages.dev)
+[![GITHUB](https://img.shields.io/badge/GITHUB-0b0b0c?style=flat-square&logo=github&logoColor=f4f4f4&labelColor=0b0b0c&color=1c1c1e)](https://github.com/pedrodereky)
 
 </div>
 
