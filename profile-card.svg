@@ -268,11 +268,11 @@
 <rect x="40" y="944" width="180" height="16" fill="url(#haz)" opacity="0.85"/><rect x="40" y="944" width="180" height="16" class="bl" stroke-width="1.5"/>
 <path d="M236 420H776" class="ln" stroke-width="1"/>
 <text x="252" y="450" class="l">NAME</text>
-<text x="764" y="450" class="v">PEDRO.GUIMARAES</text>
+<text x="764" y="450" class="v">PEDRO.DEREK</text>
 <rect x="237" y="466" width="539" height="46" fill="#08182c" opacity="0.85"/>
 <path d="M236 466H776" class="ln" stroke-width="1"/>
 <text x="252" y="496" class="l">INCEPT DATE</text>
-<text x="764" y="496" class="v">DD/MM/AAAA</text>
+<text x="764" y="496" class="v">██/██/████</text>
 <path d="M236 512H776" class="ln" stroke-width="1"/>
 <text x="252" y="542" class="l">FUNCTION</text>
 <text x="764" y="542" class="v">DEVELOPER</text>
