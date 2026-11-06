@@ -4,6 +4,7 @@
 
 [![PORTFÓLIO](https://img.shields.io/badge/PORTFÓLIO-0b0b0c?style=flat-square&logo=googlechrome&logoColor=f4f4f4&labelColor=0b0b0c&color=1c1c1e)](https://joaopedroguimaraes.pages.dev)
 [![GITHUB](https://img.shields.io/badge/GITHUB-0b0b0c?style=flat-square&logo=github&logoColor=f4f4f4&labelColor=0b0b0c&color=1c1c1e)](https://github.com/pedrodereky)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0b0b0c?style=flat-square&logo=linkedin&logoColor=f4f4f4&labelColor=0b0b0c&color=1c1c1e)](https://www.linkedin.com/in/pedro-guimar%C3%A3es-8b1411372)
 
 </div>
 
